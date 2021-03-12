@@ -1,5 +1,5 @@
-function mouse(){
+function Mouse(){
 	return "Mouse say";
 }
 
-mouse();
+module.exports = Mouse
